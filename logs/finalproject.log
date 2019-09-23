@@ -89,3 +89,6 @@ Traceback (most recent call last):
   File "C:\Users\Joseph Friedman\Desktop\finalproject\venv\lib\site-packages\jinja2\lexer.py", line 683, in tokeniter
     filename)
 jinja2.exceptions.TemplateSyntaxError: unexpected '}'
+2019-09-06 04:56:43,687 INFO: finalproject startup [in C:\Users\Joseph Friedman\Desktop\finalproject\app\__init__.py:51]
+2019-09-07 13:09:36,327 INFO: finalproject startup [in C:\Users\Joseph Friedman\Desktop\finalproject\app\__init__.py:52]
+2019-09-10 18:32:26,101 INFO: finalproject startup [in C:\Users\Joseph Friedman\Desktop\finalproject\app\__init__.py:54]

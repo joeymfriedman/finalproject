@@ -1,0 +1,13 @@
+cd desktop/finalproject
+@echo off
+echo activating virtual environment...
+call venv\Scripts\activate
+echo setting the main file for flask appllication...
+set FLASK_APP=finalproject.py
+echo putting flask into debug mode...
+set FLASK_DEBUG=1
+echo ...And now we are ready to run our flask application!  Oh Yeah!
+start python -m flask run
+echo launching application via local host 5000 in google chrome...
+start chrome --new-window "http://localhost:5000"
+
